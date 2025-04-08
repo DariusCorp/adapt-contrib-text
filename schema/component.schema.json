@@ -10,7 +10,7 @@
       "properties": {
         "_supportedLayout": {
           "type": "string",
-          "title": "Supported layout",
+          "title": "Aspect acceptat",
           "default": "both",
           "enum": [
             "full-width",

@@ -23,7 +23,7 @@
                   "properties": {
                     "ariaRegion": {
                       "type": "string",
-                      "title": "ARIA region",
+                      "title": "Zonă ARIA",
                       "default": "",
                       "_adapt": {
                         "translatable": true

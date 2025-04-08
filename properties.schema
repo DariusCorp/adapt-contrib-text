@@ -8,6 +8,7 @@
       "type": "string",
       "required": true,
       "default": "",
+      "title": "Zonă ARIA",
       "inputType": "Text",
       "validators": [],
       "translatable": true
@@ -17,6 +18,7 @@
     "_supportedLayout": {
       "type": "string",
       "required": true,
+      "title": "Format acceptat",
       "enum": ["full-width", "half-width", "both"],
       "default": "both",
       "editorOnly": true
@@ -24,10 +26,11 @@
     "instruction": {
       "type": "string",
       "required": false,
+      "title": "Instrucțiuni",
       "default": "",
       "inputType": "Text",
       "validators": [],
-      "help": "This is the instruction text",
+      "help": "Acesta este textul instrucțiunilor",
       "translatable": true
     }
   }
